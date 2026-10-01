@@ -1,0 +1,9 @@
+query,intent,buyer_stage,brand_or_generic,priority,platform,brand_mentioned,cited_domain,cited_url,context,date,notes
+ai seo course,commercial,MOFU,generic,high,,,,,,,
+best ai seo course,commercial,MOFU,generic,high,,,,,,,
+free ai seo course,commercial,MOFU,generic,high,,,,,,,
+what is an ai seo course,informational,TOFU,generic,medium,,,,,,,
+what should an ai seo course teach,informational,TOFU,generic,high,,,,,,,
+ai seo course for agencies,recommendation,MOFU,generic,high,,,,,,,
+how do i learn geo,informational,TOFU,generic,medium,,,,,,,
+where can i learn ai citation analysis,recommendation,MOFU,generic,high,,,,,,,
